@@ -11,6 +11,7 @@ Content in {curly brackets} is commentary, and should be deleted or replaced as 
 
 ## Steps
 {Always use numbered lists for task steps, never bullet points. Have as many steps as you need, but use your judgement. If the page is getting very long, maybe you should split it into two task pages instead.}
+
 {
 1. Step one
   1. {Sub-steps are fine, although if you have lots of them then you might be trying to cover too much on one page.}
