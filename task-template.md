@@ -14,7 +14,7 @@ Content in {curly brackets} is commentary, and should be deleted or replaced as 
 
 {
 1. Step one
-        1. {Sub-steps are fine, although if you have lots of them then you might be trying to cover too much on one page.}
+    1. {Sub-steps are fine, although if you have lots of them then you might be trying to cover too much on one page.}
 2. Step two
 3. Step three
 4. Step four
