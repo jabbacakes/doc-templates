@@ -11,6 +11,8 @@ Generally, your documentation should start with some concepts as you introduce y
     * Tutorials for the widget (task)
 * Using the widget
     * Doing x with the widget (task)
+    * Doing y with the widget (task)
+        * Why should you do y? (concept)
     * Upgrading the widget (task)
     * Design of the widget (concept)
     * Troubleshooting the widget (task)
