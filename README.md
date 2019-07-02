@@ -6,7 +6,7 @@ So you need to write some doc, but you can't even start with a template because 
 * Is what I'm trying to write about a step-by-step process? Does it have a clear beginning, middle, and end? ---> **Task**
 * Am I just providing error codes, trace outputs, or other static data to the user? Is it likely to change substantially any time soon? If not, then probably ---> **Reference**
 * Am I trying to explain a design decision, the context of a project, or the reasoning behind something? ---> **Concept**
-
+---
 
 * [Task](task-template.md)
 * [Concept](concept-template.md)
