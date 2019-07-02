@@ -1,1 +1,5 @@
-# doc-templates
+# Documentation Templates
+* Task
+* Concept
+* Reference
+* Table of Contents
