@@ -11,4 +11,4 @@ So you need to write some doc, but you can't even start with a template because 
 * [Task](task-template.md)
 * [Concept](concept-template.md)
 * [Reference](reference-template.md)
-* Table of Contents
+* [Table of Contents](toc-template.md)
