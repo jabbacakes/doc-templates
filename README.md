@@ -1,4 +1,5 @@
 # Documentation Templates
+Copy the raw markdown of the templates to use them for your own doc.
 
 ## What kind of content am I writing?
 So you need to write some doc, but you can't even start with a template because you're not sure what kind of content it is? Working through these questions should help.
