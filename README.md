@@ -2,4 +2,4 @@
 * [Task](task-template.md)
 * [Concept](concept-template.md)
 * [Reference](reference-template.md)
-* Table of Contents
+* [Table of Contents](toc-template.md)
