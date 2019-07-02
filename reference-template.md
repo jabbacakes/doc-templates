@@ -1,5 +1,5 @@
 ## Reference Template
-Content in {square brackets} are comments and should be deleted when using the template for realsies. Content in {curly brackets} should be replaced with whatever your content is.
+Content in {curly brackets} is commentary, and should be deleted or replaced as appropriate when using these templates for realsies.
 
 # {Title}
 {No strict rules for reference titles - just keep them as short as possible (like everything else), and make sure the key words your users will be looking for are in there.}
